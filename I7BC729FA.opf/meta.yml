@@ -1,0 +1,38 @@
+id: I7BC729FA
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T09:55:50.639685'
+last_modified: '2022-06-19T09:55:50.639697'
+parser: null
+source_metadata:
+  title: Hagiography of Bod mkhar ba Mai tri don grub rgyal mtshan (1527–1587); Lamdre
+    Lobshe, vol. nga, title no. 1
+  author: mi phan chos rgya mtsho/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-03); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/567
+  bases:
+    a4d8:
+      title: Hagiography of Bod mkhar ba Mai tri don grub rgyal mtshan (1527–1587);
+        Lamdre Lobshe, vol. nga, title no. 1
+      order: 1
+      base_file: a4d8.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
